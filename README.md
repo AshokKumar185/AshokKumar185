@@ -1,9 +1,9 @@
 # ✨ About Me
 
 - 🔭 I’m currently working on **P8**
-- 👀 👀 Hi, I'm Ashokkumar — a passionate MERN Stack Developer currently focused on creating innovative web applications and enhancing user experiences.
+- 👀 Hi, I'm Ashokkumar — a passionate MERN Stack Developer currently focused on creating innovative web applications and enhancing user experiences.
 - 🌱 I’m currently deepening my knowledge in advanced backend development and exploring cloud technologies.
-- 💞️  I’m excited to collaborate on impactful projects that involve full-stack web development and API integration..
+- 💞️ I’m excited to collaborate on impactful projects that involve full-stack web development and API integration..
 - 📫 Reach me at: ashokkumar936127@gmail.com | [LinkedIn](https://www.linkedin.com/in/ashokkumar-p-595a45256)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new technologies and building creative solutions that push the boundaries of what's possible.
