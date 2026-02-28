@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on enterprise-level projects for ANZ at Digisailor
 - 👋 I'm Ashokkumar — a Full Stack Developer with experience building scalable frontend and backend systems.
-- 💻 Skilled in Next.js, React, Node.js, PostgreSQL, MongoDB, Firebase, and Docker.
+- 💻 Skilled in Next.js, React, Node.js, PostgreSQL, MongoDB, Firebase, playwright, Mountebank, Google cloud, Codefresh and Docker.
 - 🔐 Experienced in API development, security fixes, and production deployments (SIT/UAT/Prod).
 - 🌱 Currently focusing on backend architecture, performance optimization, and cloud technologies.
 - 🤝 Open to full-stack roles and impactful startup opportunities.
