@@ -1,12 +1,13 @@
 # ✨ About Me
 
-- 🔭 I’m currently working on **Digisailor**
-- 👀 Hi, I'm Ashokkumar — a passionate MERN Stack Developer currently focused on creating innovative web applications and enhancing user experiences.
-- 🌱 I’m currently deepening my knowledge in advanced backend development and exploring cloud technologies.
-- 💞️ I’m excited to collaborate on impactful projects that involve full-stack web development and API integration..
-- 📫 Reach me at: ashokkumar936127@gmail.com | [LinkedIn](https://www.linkedin.com/in/ashokkumar-p-595a45256)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love experimenting with new technologies and building creative solutions that push the boundaries of what's possible.
+- 🔭 Currently working on enterprise-level projects for ANZ at Digisailor
+- 👋 I'm Ashokkumar — a Full Stack Developer with experience building scalable frontend and backend systems.
+- 💻 Skilled in Next.js, React, Node.js, PostgreSQL, MongoDB, Firebase, and Docker.
+- 🔐 Experienced in API development, security fixes, and production deployments (SIT/UAT/Prod).
+- 🌱 Currently focusing on backend architecture, performance optimization, and cloud technologies.
+- 🤝 Open to full-stack roles and impactful startup opportunities.
+- 📫 ashokkumar936127@gmail.com
+- ⚡ I enjoy turning complex business requirements into clean, scalable solutions.
 
 <!---
 AshokKumar185/AshokKumar185 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
